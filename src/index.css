@@ -1,0 +1,6 @@
+/* Mom Boss Wellness: brand tokens, fonts, shadcn/ui variables and base styles, then Tailwind. */
+@import "./styles/theme.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
